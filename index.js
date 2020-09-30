@@ -385,4 +385,4 @@ client.on('message',async message => {
 
 
 
-client.login("");
+client.login("NzU5MTE5MTg4ODQwOTM5NTgw.X2421g.AC0e8499ZpG3xrHPe-bvp4v2n90");
